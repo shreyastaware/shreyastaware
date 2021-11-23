@@ -1,6 +1,7 @@
-### Hi there 👋
-
 <!--
+### Hi there 
+
+
 **shreyastaware/shreyastaware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,9 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ <img src="https://shreyastaware.github.io/images/hey.gif" width="32px">
+
 -->
 
-## Hey, I'm Shreyas! <img src="https://shreyastaware.github.io/images/hey.gif" width="32px">
+## Hey, I'm Shreyas! 👋
 
 * 🔭  I’m currently reading the book - [ProGit](https://git-scm.com/book/en/v2) and learning various things about version control
 * 🌱  I’m currently mastering open source libraries such as **TensorFlow** and **Scikit Learn**.
