@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 * 📫  How to reach me: https://shreyastaware.github.io/
 * 😄  Pronouns: He/Him 🙍🏻‍♂️
 * ⚡  Fun fact: I am probably binge watching a famous sitcom right now, again!
+* ⚡  Another Fun fact: `currently` here refers to the last time this repo was updated.
 
 ## Connect with me: 
 <p align="left">
