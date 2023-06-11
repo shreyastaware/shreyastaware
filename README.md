@@ -5,8 +5,7 @@
 * 👯  I’m looking to collaborate on open source projects.
 * 💬  Ping me about anything. Always happy to help! ✋
 * 📫  How to reach me: https://shreyastaware.github.io/
-* 😄  Pronouns: He/Him 🙍🏻‍♂️
-* ⚡  What I do besides being here: I am possibly reading another article off of [Arts & Letters Daily](https://www.aldaily.com/)
+* ⚡  What I do besides being here: I am possibly reading another article off of [Arts & Letters Daily](https://www.aldaily.com/) or playing chess on lichess.
 
 ## Connect with me: 
 <p align="left">
