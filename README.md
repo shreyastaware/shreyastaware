@@ -11,16 +11,16 @@
 ### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/shreyastaware" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
   <a href="https://www.hackerrank.com/shreyastaware" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg" alt="hackerrank" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="hackerrank" width="40" height="40"/>
   </a>
   <a href="https://dev.to/shreyastaware" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devto/devto-original.svg" alt="dev.to" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" alt="dev.to" width="40" height="40"/>
   </a>
   <a href="https://hashnode.com/@shreyastaware" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="hashnode" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/hashnode/2962FF" alt="hashnode" width="40" height="40"/>
   </a>
 </p>
 
