@@ -1,13 +1,13 @@
 ## Hey, I'm Shreyas! 👋
 
+* 📖  Currently, I'm reading Computer Systems by Bryant and O'Hallaron.
 * 👯  I’m looking to collaborate on open source projects.
 * 💬  Ping me about anything. Always happy to help! ✋
 * 📫  How to reach me: https://shreyastaware.github.io/
-* ⚡  What I do besides being here: I am possibly reading another article off of [Arts & Letters Daily](https://www.aldaily.com/) or playing chess on lichess.
+* ⚡  What I do apart from work: I am possibly reading another article off of [Arts & Letters Daily](https://www.aldaily.com/) or playing chess on lichess.
 
 ## Connect with me: 
 <p align="left">
-<a href="https://twitter.com/shreyastaware" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="shreyastaware" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyastaware" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="shreyastaware" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shreyastaware" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="shreyastaware" height="30" width="40" /></a>
 </p>
