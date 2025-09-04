@@ -6,11 +6,27 @@
 * 📫  How to reach me: https://shreyastaware.github.io/
 * ⚡  What I do apart from work: I am possibly reading another article off of [Arts & Letters Daily](https://www.aldaily.com/) or playing chess on lichess.
 
-## Connect with me: 
+---
+
+## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/shreyastaware" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="shreyastaware" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shreyastaware" target="blank"><img align="center" src="https://iconscout.com/icons/hackerrank" alt="shreyastaware" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shreyastaware" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
+  </a>
+  <a href="https://www.hackerrank.com/shreyastaware" target="blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="30" width="30" />
+  </a>
+  <a href="https://dev.to/shreyastaware" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" alt="dev.to" height="30" width="30" />
+  </a>
+  <a href="https://hashnode.com/@shreyastaware" target="blank">
+    <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244319689/Iy6EUd8k9.png" alt="hashnode" height="30" width="30" />
+  </a>
 </p>
 
+---
+
 ## GitHub Stats 📊
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyastaware&show_icons=true&locale=en" alt="shreyastaware" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyastaware&show_icons=true&locale=en" alt="shreyastaware" />
+</p>
