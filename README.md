@@ -17,7 +17,7 @@
     <img src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="hackerrank" width="40" height="40"/>
   </a>
   <a href="https://dev.to/shreyastaware" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" alt="dev.to" width="40" height="40"/>
+    <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dev.to" width="40" height="40"/>
   </a>
   <a href="https://hashnode.com/@shreyastaware" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/hashnode/2962FF" alt="hashnode" width="40" height="40"/>
