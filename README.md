@@ -10,6 +10,16 @@
 
 ---
 
+### Recent Work (October, 2025):
+
+* Built [AI Fitness Coach](https://github.com/shreyastaware/ai_fitness_coach) - an AI Voice Agent to answer your fitness & diet queries on the fly.
+* Built an Automation for freelancers to automatically reply to emails once work is done: [Smart Email Response System](https://github.com/shreyastaware/smart-email-response-system)
+* An App that converts your Mood to Music: [Mood2Music](https://github.com/shreyastaware/Mood2Music)
+* [QueueEase](https://queueease-digital-qu-hq8v.bolt.host/): An App that saves you time while you wait for your food!
+* [Super X](https://full-stack-twitter-x-r3np.bolt.host/): Clone of X with better features.
+
+---
+
 ### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/shreyastaware" target="blank" rel="noreferrer">
