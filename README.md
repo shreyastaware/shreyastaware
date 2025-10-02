@@ -1,5 +1,8 @@
 ## Hey, I'm Shreyas! 👋
 
+* 💻 Adept in the latest AI Stack (Prompt Engineering, Vibe Coding, Building from Scratch), AI tools & IDEs (Gemini Code-Assist, Kiro, Warp, Copilot).
+* 🛠️ Scaled multiple full-stack apps with Next, React, Ag-grid, TypeScript, HighCharts.
+* 💼 Work History: 4 years of work ex. with 3 years at JP Morgan in Full Stack App Development.
 * ✍️ I write tech blogs on [Dev Community](https://dev.to/shreyastaware), [Hashnode](https://shreyastaware.hashnode.dev/), and [Hackernoon](https://hackernoon.com/u/shreyastaware).
 * 😎 You can also find me frequently vibe-coding, participating in hackathons or reading articles from anywhere and everywhere.
 * 📖 Currently, I'm reading [Computer Systems](https://www.amazon.in/Computer-Systems-Programmers-Randal-Bryant/dp/013409266X) by Bryant and O'Hallaron.
