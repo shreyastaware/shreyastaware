@@ -1,6 +1,6 @@
 ## Hey, I'm Shreyas! 👋
 
-* 💻 Adept in the latest AI Stack ([Prompt Engineering](https://www.promptingguide.ai/), Vibe Coding, Building from Scratch), AI tools & IDEs (Gemini Code-Assist, Kiro, Warp, Copilot).
+* 💻 Adept in the latest AI Concepts ([Prompt Engineering](https://www.promptingguide.ai/), [MCPs](https://modelcontextprotocol.io/), Setting up [Agentic Workflows](https://www.ibm.com/think/topics/agentic-workflows)), AI tools & IDEs ([Gemini Code-Assist](https://codeassist.google/), [Cursor](http://cursor.com/), [Claude](http://claude.ai/), [Kiro](https://kiro.dev/pricing/), [Warp](https://www.warp.dev/pricing), [Copilot](https://github.com/features/copilot/plans?cft=copilot_li.features_copilot)).
 * 🛠️ Scaled multiple full-stack apps with [Next](https://nextjs.org/), [TypeScript](http://typescriptlang.org/), [AWS](https://aws.amazon.com/).
 * 💼 Work History: 4 years of work ex. with 3 years at [JP Morgan](https://www.jpmorganchase.com/) in Full Stack Web Development.
 * ✍️ I write tech blogs on [Dev Community](https://dev.to/shreyastaware), [Hashnode](https://shreyastaware.hashnode.dev/), and [Hackernoon](https://hackernoon.com/u/shreyastaware).
