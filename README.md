@@ -44,7 +44,4 @@
 
 ---
 
-### GitHub Stats 📊
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyastaware&show_icons=true&locale=en" alt="shreyastaware" />
-</p>
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u42e1266)
