@@ -26,19 +26,19 @@
 ### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white  !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="display: block; border: none;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="display: inline-block; border: none;"/>
   </a>
   <a href="https://www.hackerrank.com/shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white  !important;">
-    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="hackerrank" width="40" height="40" style="display: block; border: none;"/>
+    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="hackerrank" width="40" height="40" style="display: inline-block; border: none;"/>
   </a>
   <a href="https://dev.to/shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white  !important;">
-    <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dev.to" width="40" style="display: block; border: none;" height="40"/>
+    <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dev.to" width="40" style="display: inline-block; border: none;" height="40"/>
   </a>
   <a href="https://hashnode.com/@shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white  !important;">
-    <img src="https://cdn.simpleicons.org/hashnode/2962FF" alt="hashnode" width="40" height="40" style="display: block; border: none;"/>
+    <img src="https://cdn.simpleicons.org/hashnode/2962FF" alt="hashnode" width="40" height="40" style="display: inline-block; border: none;"/>
   </a>
   <a href="https://hackernoon.com/u/shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white !important;">
-    <img src="https://avatars.githubusercontent.com/u/38445269?s=200&v=4" alt="hackernoon" width="40" height="40" style="display: block; border: none;"/>
+    <img src="https://avatars.githubusercontent.com/u/38445269?s=200&v=4" alt="hackernoon" width="40" height="40" style="display: inline-block; border: none;"/>
   </a>
 </p>
 
