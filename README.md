@@ -40,6 +40,9 @@
   <a href="https://hackernoon.com/u/shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white !important;">
     <img src="https://avatars.githubusercontent.com/u/38445269?s=200&v=4" alt="hackernoon" width="40" height="40" style="display: inline-block; border: none;"/>
   </a>
+  <a href="https://daily.dev/shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white !important;">
+    <img src="https://play-lh.googleusercontent.com/CbuT4GVDDQh15D3DN1gCZbEy4RtExTIxZNlLM5s2EUApwMQKrprnH9HCAKwADnMWSnteZTZOnTNmEhqVpPRRYg=w480-h960-rw" alt="hackernoon" width="40" height="40" style="display: inline-block; border: none;"/>
+  </a>  
 </p>
 
 
