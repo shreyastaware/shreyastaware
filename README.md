@@ -27,7 +27,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white  !important;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="display: inline-block; border: none;"/>
-  </a>
+  </a>  
   <a href="https://www.hackerrank.com/shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white  !important;">
     <img src="https://cdn.simpleicons.org/hackerrank/2EC866" alt="hackerrank" width="40" height="40" style="display: inline-block; border: none;"/>
   </a>
@@ -41,8 +41,16 @@
     <img src="https://avatars.githubusercontent.com/u/38445269?s=200&v=4" alt="hackernoon" width="40" height="40" style="display: inline-block; border: none;"/>
   </a>
   <a href="https://daily.dev/shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white !important;">
-    <img src="https://play-lh.googleusercontent.com/CbuT4GVDDQh15D3DN1gCZbEy4RtExTIxZNlLM5s2EUApwMQKrprnH9HCAKwADnMWSnteZTZOnTNmEhqVpPRRYg=w480-h960-rw" alt="hackernoon" width="40" height="40" style="display: inline-block; border: none;"/>
+    <img src="https://play-lh.googleusercontent.com/CbuT4GVDDQh15D3DN1gCZbEy4RtExTIxZNlLM5s2EUApwMQKrprnH9HCAKwADnMWSnteZTZOnTNmEhqVpPRRYg=w480-h960-rw" alt="daily.dev" width="40" height="40" style="display: inline-block; border: none;"/>
   </a>  
+  <a href="https://peerlist.io/shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white  !important;">
+    <img src="https://images.seeklogo.com/logo-png/57/1/peerlist-icon-logo-png_seeklogo-576626.png" alt="peerlist" width="40" height="40" style="display: inline-block; border: none;"/>
+  <a href="https://medium.com/@shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white  !important;">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-logo-icon.png" alt="medium" width="40" height="40" style="display: inline-block; border: none;"/>    
+  </a>  
+  <a href="https://shreyastaware.substack.com/" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white  !important;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk1wf_-n7B3d3ugG6AvAvdn_2Gi0l6glqxdm17D1IQzy3Nw-7VNNA6ns0&s=10" alt="substack" width="40" height="40" style="display: inline-block; border: none;"/>    
+  </a>      
 </p>
 
 
