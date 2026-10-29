@@ -51,6 +51,11 @@
   <a href="https://shreyastaware.substack.com/" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white  !important;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk1wf_-n7B3d3ugG6AvAvdn_2Gi0l6glqxdm17D1IQzy3Nw-7VNNA6ns0&s=10" alt="substack" width="40" height="40" style="display: inline-block; border: none;"/>    
   </a>      
+  <a href="https://bsky.app/profile/shreyastaware.bsky.social" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white  !important;">
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/3840px-Bluesky_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="bluesky" width="40" height="40" style="display: inline-block; border: none;"/>    
+  </a> 
+  <a href="https://mastodon.social/@shreyastaware" target="blank" rel="noreferrer" style="display: inline-block !important; border: none !important; text-decoration: none !important; color: white  !important;">
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/1280px-Mastodon_logotype_%28simple%29_new_hue.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="mastodon" width="40" height="40" style="display: inline-block; border: none;"/>       
 </p>
 
 
